@@ -1,5 +1,4 @@
 hse.leisure.voter
-hse.leisure.voter.analyzer
 hse.leisure.voter.configuration
 hse.leisure.voter.configuration.swagger
 hse.leisure.voter.controller
@@ -9,3 +8,4 @@ hse.leisure.voter.mapper
 hse.leisure.voter.model
 hse.leisure.voter.repo
 hse.leisure.voter.tool
+hse.leisure.voter.utility
